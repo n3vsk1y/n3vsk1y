@@ -1,4 +1,4 @@
-## Hi there 🎰
+### Sup? 🎰
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3vsk1y&theme=blueberry&hide_border=true&layout=compact&card_width=400" alt="Top Langs" style="height: 180px;"/>
