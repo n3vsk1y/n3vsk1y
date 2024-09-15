@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3vsk1y&theme=github&show_icons=true&hide_border=true)
 
-🌱 I’m currently learning React+Vite and FastAPI ![image](https://github.com/user-attachments/assets/b97d67df-7253-45b8-b612-4bd067f0438d)
+🌱 I’m currently learning React+Vite and FastAPI ⛱️
 
 <!--
 **n3vsk1y/n3vsk1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
