@@ -1,7 +1,7 @@
 ## Hi there 🎰
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3vsk1y&theme=dracula&show_icons=true&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3vsk1y&theme=gothama&show_icons=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3vsk1y&show_icons=true&theme=gotham)
 
 🌱 I’m currently learning React+Vite and FastAPI ⛱️
 
