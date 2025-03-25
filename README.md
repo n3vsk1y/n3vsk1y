@@ -11,7 +11,7 @@
 **🏫 Студент МГТУ им. Баумана по направлению "Информационные системы и сети"**
 
 ## 🛠 Cтек
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-0b3d25?style=for-the-badge&logo=fastapi) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-752a2a?style=for-the-badge&logo=SQLAlchemy)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-0b3d25?style=for-the-badge&logo=fastapi) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-752a2a?style=for-the-badge&logo=SQLAlchemy)
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Gin](https://img.shields.io/badge/gin-0f7bba?style=for-the-badge&logo=gin&logoColor=white) ![pgx](https://img.shields.io/badge/pgx-black?style=for-the-badge&logo=go&logoColor=white) ![make](https://img.shields.io/badge/make-d6620f?style=for-the-badge&logo=make&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
