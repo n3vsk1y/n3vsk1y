@@ -4,7 +4,7 @@
 
 **✅ Я Python/Golang Backend Developer**
 
-**💻 Регулярно работаю с backend- и frontend-стеком**
+**💻 Регулярно работаю с backend и frontend-стеком**
 
 **📍Имею опыт разработки полноценных веб-приложений и работы с базами данных**
 
@@ -21,7 +21,7 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Docker Compose](https://img.shields.io/badge/Compose-%230f7bba.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%231f8210.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%23F05033.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3vsk1y&theme=blueberry&hide_border=true&layout=compact&card_width=400&count_private=true&langs_count=8" alt="Top Langs" style="height: 190px;"/>
