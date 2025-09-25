@@ -1,15 +1,5 @@
 ![Mail](https://img.shields.io/badge/alaf04%40mailru-3670A0?style=for-the-badge&logo=gmail&logoColor=white)![Telegram](https://img.shields.io/badge/%40n3vskiy-3670A0?style=for-the-badge&logo=telegram&logoColor=white)
 
-# Привет! 👋
-
-**✅ Я Python/Golang Backend Developer**
-
-**💻 Регулярно работаю с backend и frontend-стеком**
-
-**📍Имею опыт разработки полноценных веб-приложений и работы с базами данных**
-
-**🏫 Студент МГТУ им. Баумана по направлению "Информационные системы и сети"**
-
 ## 🛠 Cтек
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![FastAPI](https://img.shields.io/badge/FastAPI-0b3d25?style=for-the-badge&logo=fastapi)![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-752a2a?style=for-the-badge&logo=SQLAlchemy)
 
